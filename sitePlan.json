@@ -1,0 +1,49 @@
+{
+  "businessName": "TooNotch Solutions",
+  "industry": "Renewable Energy & Security Solutions",
+  "tone": "professional-confident",
+  "tagline": "Powering Your Future with Reliable Solar & Security Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to TooNotch Solutions – Abuja's trusted partner for complete solar energy and security installations. We deliver premium inverter systems, solar panels, batteries, street lights, and CCTV surveillance solutions that keep your home and business powered and protected. Experience uninterrupted power supply and peace of mind with our expert installations across Abuja Municipal and beyond.",
+      "imagePrompt": "Professional solar panel installation on a modern Nigerian commercial building rooftop in Abuja, bright afternoon sunlight, technicians in branded uniforms working safely, cityscape of Abuja in background, sleek CCTV cameras mounted on building corners, photorealistic, high-quality corporate photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "TooNotch Solutions is Abuja's leading provider of renewable energy and security systems. Based at The Kings Plaza opposite NAF Conference Center, Kado, we specialize in comprehensive solar power solutions and advanced security installations. Our team of certified technicians brings years of experience in designing, supplying, and installing inverter systems, solar panels, batteries, solar street lights, and CCTV surveillance equipment. We understand the unique power challenges facing Nigerian homes and businesses, which is why we deliver solutions that are reliable, efficient, and backed by excellent after-sales support. From residential homes to commercial complexes, hotels, hospitals, and government facilities across Abuja Municipal, we've powered and secured countless properties with cutting-edge technology and professional service.",
+      "imagePrompt": "Modern renewable energy showroom in Abuja with displayed solar panels, inverter batteries, and CCTV equipment on professional display stands, warm LED lighting, Nigerian professional staff consulting with clients, clean contemporary interior design, photorealistic business environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Inverter & Solar Panel Installation**\nComplete solar power system design and installation for homes, offices, and industrial facilities. We supply and install high-efficiency solar panels with premium inverter systems that guarantee reliable backup power during outages.\n\n**Inverter Battery Solutions**\nPremium deep-cycle inverter batteries with extended lifespan and superior performance. We offer expert battery sizing, installation, and maintenance services to ensure your power system runs optimally.\n\n**Solar Street Lights**\nEco-friendly solar-powered street lighting solutions for estates, streets, parks, and compounds. Our solar street lights provide bright, reliable illumination while reducing electricity costs to zero.\n\n**CCTV & Security Systems**\nAdvanced surveillance camera installation for residential and commercial properties. Our CCTV systems feature high-definition recording, remote monitoring capabilities, and night vision technology to keep your property secure 24/7.\n\n**Maintenance & Support**\nRegular maintenance packages, system diagnostics, repairs, and upgrades. Our after-sales support ensures your investment continues delivering maximum value year after year.",
+      "imagePrompt": "Split composition showing four quadrants: solar panels being installed on a roof, technician connecting inverter batteries in a clean technical room, solar street lights illuminating a Nigerian estate at dusk, and CCTV cameras monitoring a commercial property, professional photography style, vibrant and modern",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose TooNotch Solutions",
+      "copy": "**Certified Expertise**\nOur technicians are trained and certified in solar installation and security systems, ensuring every project meets international safety and quality standards.\n\n**Quality Equipment**\nWe source only premium-grade solar panels, inverters, batteries, and CCTV systems from trusted global manufacturers, guaranteeing durability and performance.\n\n**Customized Solutions**\nEvery property has unique power and security needs. We conduct thorough assessments and design solutions tailored specifically to your requirements and budget.\n\n**Professional Installation**\nFrom site survey to final commissioning, our installation process is seamless, timely, and minimally disruptive to your daily operations.\n\n**Warranty & Support**\nAll our installations come with comprehensive warranties and ongoing technical support. We're always available when you need us.\n\n**Abuja Local**\nConveniently located at The Kings Plaza opposite NAF Conference Center, Kado, we provide fast response times and personalized service throughout Abuja Municipal.",
+      "imagePrompt": "Professional Nigerian engineer in branded TooNotch Solutions uniform using digital tablet to inspect solar panel installation, modern Abuja building background, confident and capable expression, golden hour lighting, corporate documentary photography style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get Started Today",
+      "copy": "Ready to experience uninterrupted power and enhanced security? Contact TooNotch Solutions today for a free consultation and quotation. Our expert team is standing by to assess your needs and design the perfect solar and security solution for your property.\n\n**Visit Our Office:**\nThe Kings Plaza OPP NAF Conference Center, Kado, Abuja\n\n**Call Us:**\n0893 936 3431\n\n**Business Hours:**\nMonday - Saturday: 8:00 AM - 6:00 PM\nSunday: By Appointment\n\nWhether you're looking to eliminate power outages, reduce electricity costs, or secure your property with advanced surveillance, TooNotch Solutions delivers results you can trust. Let's power and protect your future together.",
+      "imagePrompt": "Welcoming modern office reception area at The Kings Plaza in Abuja, professional Nigerian receptionist greeting clients, solar panels and CCTV displays visible in background, warm natural lighting through windows, clean contemporary business environment, inviting atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08939363431",
+    "email": "info@toonotchsolutions.ng",
+    "address": "The Kings Plaza OPP NAF Conference Center, Kado, Abuja",
+    "whatsapp": "https://wa.me/2348939363431"
+  }
+}
