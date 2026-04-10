@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#2C3E50",
+  "accentColor": "#3498DB",
+  "bgColor": "#ECF0F1",
+  "textColor": "#34495E",
+  "fontDisplay": "Montserrat",
+  "fontBody": "Open Sans",
+  "borderRadius": "0px",
+  "layoutStyle": "clean minimal",
+  "uxPrinciple": "professional confidence through structural clarity and technological reliability",
+  "cssVariables": "--color-primary:#2C3E50; --color-accent:#3498DB; --color-bg:#ECF0F1; --color-text:#34495E; --font-display:Montserrat; --font-body:Open Sans; --border-radius:0px;"
+}
